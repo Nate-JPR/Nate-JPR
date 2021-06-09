@@ -2,8 +2,8 @@
 
 ------
 
-
-
+## Info
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nate-JPR&show_icons=true&theme=dark&hide=prs&show_icons=true&count_private=true)](https://github.com/Nate-JPR)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nate-JPR&theme=dark)](https://github.com/Nate-JPR)
 
 ------
