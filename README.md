@@ -1,4 +1,6 @@
-### Hi there, im Nathan!  ![dance](https://user-images.githubusercontent.com/77204223/121403514-444c7380-c95b-11eb-9d01-33bad312fc85.gif)
+### Hi there, im Nathan!
+![dance](https://user-images.githubusercontent.com/77204223/121403514-444c7380-c95b-11eb-9d01-33bad312fc85.gif)
+
 
 
 <!--
