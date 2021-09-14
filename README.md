@@ -1,4 +1,5 @@
 <h1 align="center">Hi, im Nathan! <img src="https://user-images.githubusercontent.com/77204223/121404250-0f8cec00-c95c-11eb-9cec-41e9c5a42ef6.gif"></h1>
+<p align="center"><a href="https://nate-jpr.github.io/nate/" style="">nate-jpr.github.io/nate/</a></p>
 
 <h3 align="center">About:</h3>
 <!-- tools | https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
