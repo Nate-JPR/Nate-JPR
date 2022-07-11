@@ -1,5 +1,5 @@
 <h1 align="center">Hi, im Nathan! <img src="https://user-images.githubusercontent.com/77204223/121404250-0f8cec00-c95c-11eb-9cec-41e9c5a42ef6.gif"></h1>
-<h2 align="center"><a href="https://nate-jpr.github.io" style="">nate-jpr.github.io</a></h2>
+<!--<h2 align="center"><a href="https://nate-jpr.github.io" style="">nate-jpr.github.io</a></h2>-->
 
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph-->
 <p align="center"><img style="width: 51%;" src="https://activity-graph.herokuapp.com/graph?username=Nate-JPR&theme=xcode"></p>
